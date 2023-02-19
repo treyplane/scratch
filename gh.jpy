@@ -1,0 +1,3 @@
+print("hello world") = output.text.print('hello%20world')
+in = input() = var in = input.text()
+import sys = input.ext(sys)
